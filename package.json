@@ -1,0 +1,14 @@
+{
+  "name": "browserslist-issue",
+  "version": "0.0.0",
+  "description": "",
+  "author": "ch2ch3",
+  "license": "MIT",
+  "scripts": {
+    "lint:css": "stylelint src/**/*.css"
+  },
+  "devDependencies": {
+    "stylelint": "7.10.1",
+    "stylelint-config-standard": "16.0.0"
+  }
+}
